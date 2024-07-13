@@ -1,1 +1,0 @@
-//  Install Node.js, Typescript and VS Code on your computer
